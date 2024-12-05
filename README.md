@@ -55,6 +55,6 @@ Contributions are welcome! If you have suggestions for new features or improveme
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For any questions or feedback, reach out via email: [chitrangibhatnagar@example.com].
+For any questions or feedback, reach out via email: [chitrangibhatnagar@gmail.com].
 
 ```
